@@ -68,3 +68,8 @@ p {
     cursor: pointer;
     
 }
+@media screen and (max-width: 768px) {
+    .convite {
+        padding: 10px;
+    }
+}
